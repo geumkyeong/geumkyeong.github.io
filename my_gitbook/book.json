@@ -1,0 +1,11 @@
+{
+    "plugins": ["ga", "-sharing"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-131123111-1"
+        }
+    },
+    "variables": {
+        "BASE_URL": "https://geumkyeong.github.io"
+    }
+}
