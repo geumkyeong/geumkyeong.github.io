@@ -19,13 +19,9 @@ $ cd geumkyeong.github.io
 ```
 
 ```
-$ jekyll new ./ --force # 2.7.0 버전..
+$ jekyll new .
 $ bundle install
 ```
-
-![image-20200207211357851](C:\Users\ansrm\AppData\Roaming\Typora\typora-user-images\image-20200207211357851.png)
-
-
 
 ```
 $ bundle exec jekyll serve
@@ -38,3 +34,5 @@ $ bundle exec jekyll serve
 **참고**
 
 https://jetalog.net/86
+
+http://jekyllrb-ko.github.io/
