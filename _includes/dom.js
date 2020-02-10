@@ -1,13 +1,10 @@
-function toggleDropdown(){
+function toggle(){
 
-   var dropdown = document.getElementById('games-dropdown')
+   var toggle = document.getElementById('toggle-bar')
 
-   // ----------vvvvv
-   if (dropdown.style.display == "none"){
-   // ------------------------^^
-     dropdown.style.display = 'block';
+   if (toggle.style.display == "none"){
+     toggle.style.display = 'block';
    } else {
-     dropdown.style.display = "none";
-   // --------^^^^^^
+     toggle.style.display = "none";
    }
 }
