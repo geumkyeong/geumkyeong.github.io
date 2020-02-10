@@ -105,8 +105,8 @@ table td { border: 1px solid #e8e8e8; }
 
 /* Site Navigation bar */
 .site-navbar { }
-.site-navbar > .nav-menu { width: 200px; background-color: #f1f1f1; list-style-type: none; margin-left: 0; margin-bottom: 0; }
-.nav-menu > li > a { display: block; color: #000; padding: 8px 16px; text-decoration: none; }
+.site-navbar > #nav-menu { width: 200px; background-color: #f1f1f1; list-style-type: none; margin-left: 0; margin-bottom: 0; }
+#nav-menu > li > a { display: block; color: #000; padding: 8px 16px; text-decoration: none; }
 
 /** Site footer */
 .site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
