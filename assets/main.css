@@ -287,6 +287,7 @@ table td { border: 1px solid #e8e8e8; }
 /*# sourceMappingURL=main.css.map */
 
 /* Site Navigation bar */
-.site-navbar { }
-.site-navbar > .nav-menu { list-style-type: none; margin: 0; padding: 0; width: 200px; background-color: #f1f1f1;!important }
-.nav-menu > li > a { display: block; color: #000; padding: 8px 16px; text-decoration: none; }
+.site-navbar { height: 100%; position: fixed; overflow: auto; }
+.site-navbar .nav-menu { list-style-type: none; margin: 0; padding: 0; width: 200px; background-color: #f1f1f1;!important }
+.nav-menu > li a { display: block; color: #000; padding: 8px 16px; text-decoration: none; }
+.nav-menu li a:hover { background-color: #555; color: white; }
