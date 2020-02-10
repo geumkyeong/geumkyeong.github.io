@@ -19,7 +19,7 @@ figure > img { display: block; }
 figcaption { font-size: 14px; }
 
 /** Lists */
-ul, ol { margin-left: 30px; }
+/* ul, ol { margin-left: 30px; } 4 Navbar */
 
 li > ul, li > ol { margin-bottom: 0; }
 
