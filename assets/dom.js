@@ -1,5 +1,4 @@
 function toggle(){
-
    var toggle = document.getElementById('toggle-bar')
 
    if (toggle.style.display == "none"){
