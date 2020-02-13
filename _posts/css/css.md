@@ -1,6 +1,6 @@
 ---
 
-layout: category
+layout: post
 
 title: css
 
