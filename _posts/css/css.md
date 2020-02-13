@@ -4,6 +4,6 @@ layout: post
 
 title: css
 
-categories: [css]
+categories: css
 
 ---

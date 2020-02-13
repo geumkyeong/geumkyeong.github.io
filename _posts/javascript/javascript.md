@@ -4,6 +4,6 @@ layout: post
 
 title: javascript
 
-categories: [javascript]
+categories: javascript
 
 ---
